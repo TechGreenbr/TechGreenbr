@@ -4,7 +4,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f343/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f343/512.gif" alt="🍃" width="32" height="32">
 </picture>
-- 🌱 Atualmente trabalhamos com o [Leaf](https://github.com/TechGreenbr/Leafcalc)
+Atualmente trabalhamos com o [Leaf](https://github.com/TechGreenbr/Leafcalc)
 
 <h3 align="left">Fale com a gente: techgreen741@gmail.com</h3>
 
