@@ -15,7 +15,7 @@ A **TechGreen** é uma empresa dedicada ao desenvolvimento de soluções tecnol�
 
 ## 🌿 Nossos Projetos
 
-🚀 Atualmente, trabalhamos no **[Leaf](https://github.com/TechGreenbr/Leafcalc)**, um projeto que visa facilitar cálculos e análises sustentáveis.
+🚀 Atualmente, trabalhamos no **[Leaf](https://github.com/TechGreenbr/Leafcalc)**, um projeto que visa facilitar cálculos e análises da sua pegada de carbono.
 
 ---
 
