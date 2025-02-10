@@ -38,10 +38,10 @@ Atualmente, nossa principal linguagem de programação é:
 
 ---
 
-## <picture>
+## <picture> Junte-se a Nós!
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="32" height="32">
-</picture> Junte-se a Nós!
+</picture>
 
 Estamos sempre abertos a novas ideias e colaborações. Se você deseja contribuir com a **TechGreen**, entre em contato e venha fazer parte dessa iniciativa sustentável! 💚
 
