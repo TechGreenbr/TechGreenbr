@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente trabalhamos com o [Leaf](https://github.com/TechGreenbr/Leafcalc)
 
-<h3 align="left">Fale com a gente:</h3>
+<h3 align="left">Fale com a gente:techgreen741@gmail.com</h3>
 
 <h3 align="left">Linguagem usada:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
